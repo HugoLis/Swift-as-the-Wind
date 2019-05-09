@@ -1,5 +1,6 @@
 # Swift as the Wind
 
+<img src="/swift-as-the-wind.png" width="256">
 
 # Privacy Policy
 
