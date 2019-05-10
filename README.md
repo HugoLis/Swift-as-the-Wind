@@ -1,5 +1,7 @@
 # Swift as the Wind
 
+Available on the App Store: https://itunes.apple.com/br/app/swift-as-the-wind/id1462967019?l=en&mt=8
+
 <img src="/swift-as-the-wind.png" width="256">
 
 # Privacy Policy
